@@ -58,13 +58,12 @@ More introduced in **[mpyw/laravel-packages](https://github.com/mpyw/laravel-pac
 
 [![mpyw/axios-case-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=axios-case-converter)](https://github.com/mpyw/axios-case-converter)
 [![mpyw/FILTER_VALIDATE_EMAIL.js](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=FILTER_VALIDATE_EMAIL.js)](https://github.com/mpyw/FILTER_VALIDATE_EMAIL.js)  
-[![mpyw/cloudwatch-front-logger](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=cloudwatch-front-logger)](https://github.com/mpyw/cloudwatch-front-logger)
-[![mpyw/phpunit-patch-serializable-comparison](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=phpunit-patch-serializable-comparison)](https://github.com/mpyw/phpunit-patch-serializable-comparison)  
-[![mpyw/EasyCrypt](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=EasyCrypt)](https://github.com/mpyw/EasyCrypt)
-[![mpyw/stream-interface-resource](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=stream-interface-resource)](https://github.com/mpyw/stream-interface-resource)  
-[![lampager/lampager](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager)](https://github.com/lampager/lampager)
-[![lampager/lampager-doctrine2](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-doctrine2)](https://github.com/lampager/lampager-doctrine2)  
-[![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)
+[![mpyw/phpunit-patch-serializable-comparison](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=phpunit-patch-serializable-comparison)](https://github.com/mpyw/phpunit-patch-serializable-comparison)
+[![mpyw/EasyCrypt](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=EasyCrypt)](https://github.com/mpyw/EasyCrypt)  
+[![mpyw/stream-interface-resource](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=stream-interface-resource)](https://github.com/mpyw/stream-interface-resource)
+[![lampager/lampager](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager)](https://github.com/lampager/lampager)  
+[![lampager/lampager-doctrine2](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-doctrine2)](https://github.com/lampager/lampager-doctrine2)
+[![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)  
 
 More introduced in [Repositories](https://github.com/mpyw?tab=repositories).
 
