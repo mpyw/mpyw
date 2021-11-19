@@ -37,9 +37,9 @@
 [![Qiita Posts](https://qiita-badge.apiapi.app/s/mpyw/posts.svg)](http://qiita.com/mpyw)
 [![Qiita Contributions](https://qiita-badge.apiapi.app/s/mpyw/contributions.svg)](http://qiita.com/mpyw)
 [![Qiita Followers](https://qiita-badge.apiapi.app/s/mpyw/followers.svg)](http://qiita.com/mpyw)  
-[![Zenn Articles](https://zenn.badge.nikaera.com/s/mpyw/articles?style=plastic)](https://zenn.dev/mpyw/articles)
+[![Zenn Articles](https://zenn.badge.nikaera.com/s/mpyw/articles?style=plastic)](https://zenn.dev/mpyw)
 [![Zenn Likes](https://zenn.badge.nikaera.com/s/mpyw/likes?style=plastic)](https://zenn.dev/mpyw)
-[![Zenn Followers](https://zenn.badge.nikaera.com/s/mpyw/followers?style=plastic)](https://zenn.dev/mpyw/followers)
+[![Zenn Followers](https://zenn.badge.nikaera.com/s/mpyw/followers?style=plastic)](https://zenn.dev/mpyw)
 
 ## Laravel
 
