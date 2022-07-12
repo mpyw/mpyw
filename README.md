@@ -49,9 +49,10 @@
 [![mpyw/eloquent-has-by-join](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=eloquent-has-by-join)](https://github.com/mpyw/eloquent-has-by-join)  
 [![lampager/lampager-laravel](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-laravel)](https://github.com/lampager/lampager-laravel)
 [![mpyw/scoped-auth](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=scoped-auth)](https://github.com/mpyw/scoped-auth)  
-[![mpyw/laravel-retry-on-duplicate-key](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-retry-on-duplicate-key)](https://github.com/mpyw/laravel-retry-on-duplicate-key)
-[![mpyw/streamable-console](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=streamable-console)](https://github.com/mpyw/streamable-console)  
+[![mpyw/streamable-console](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=streamable-console)](https://github.com/mpyw/streamable-console)
+[![mpyw/laravel-retry-on-duplicate-key](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-retry-on-duplicate-key)](https://github.com/mpyw/laravel-retry-on-duplicate-key)  
 [![mpyw/compoships-eager-limit](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=compoships-eager-limit)](https://github.com/mpyw/compoships-eager-limit)
+[![mpyw/laravel-database-advisory-lock](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-database-advisory-lock)](https://github.com/mpyw/laravel-database-advisory-lock)  
 
 More introduced in **[mpyw/laravel-packages](https://github.com/mpyw/laravel-packages)**.
 
