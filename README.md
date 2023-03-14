@@ -47,8 +47,6 @@
 [![mpyw/laravel-cached-database-stickiness](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-cached-database-stickiness)](https://github.com/mpyw/laravel-cached-database-stickiness)  
 [![mpyw/laravel-mysql-system-variable-manager](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-mysql-system-variable-manager)](https://github.com/mpyw/laravel-mysql-system-variable-manager)
 [![mpyw/laravel-retry-on-duplicate-key](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-retry-on-duplicate-key)](https://github.com/mpyw/laravel-retry-on-duplicate-key)  
-[![mpyw/eloquent-has-by-non-dependent-subquery](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=eloquent-has-by-non-dependent-subquery)](https://github.com/mpyw/eloquent-has-by-non-dependent-subquery)
-[![mpyw/eloquent-has-by-join](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=eloquent-has-by-join)](https://github.com/mpyw/eloquent-has-by-join)  
 [![lampager/lampager-laravel](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-laravel)](https://github.com/lampager/lampager-laravel)
 [![mpyw/scoped-auth](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=scoped-auth)](https://github.com/mpyw/scoped-auth)  
 [![mpyw/streamable-console](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=streamable-console)](https://github.com/mpyw/streamable-console)
