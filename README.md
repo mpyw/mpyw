@@ -55,16 +55,17 @@ More introduced in **[mpyw/laravel-packages](https://github.com/mpyw/laravel-pac
 
 ## Others
 
-[![mpyw/axios-case-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=axios-case-converter)](https://github.com/mpyw/axios-case-converter)
-[![mpyw/FILTER_VALIDATE_EMAIL.js](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=FILTER_VALIDATE_EMAIL.js)](https://github.com/mpyw/FILTER_VALIDATE_EMAIL.js)  
-[![mpyw/sharable-value-objects](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=sharable-value-objects)](https://github.com/mpyw/sharable-value-objects)
-[![mpyw/uuid-ulid-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=uuid-ulid-converter)](https://github.com/mpyw/uuid-ulid-converter)  
-[![mpyw/phpunit-patch-serializable-comparison](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=phpunit-patch-serializable-comparison)](https://github.com/mpyw/phpunit-patch-serializable-comparison)
-[![mpyw/EasyCrypt](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=EasyCrypt)](https://github.com/mpyw/EasyCrypt)  
-[![mpyw/unique-violation-detector](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=unique-violation-detector)](https://github.com/mpyw/unique-violation-detector)
-[![lampager/lampager](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager)](https://github.com/lampager/lampager)  
-[![lampager/lampager-doctrine2](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-doctrine2)](https://github.com/lampager/lampager-doctrine2)
-[![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)  
+[![yumemi-inc/sea-query-common-like](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=sea-query-common-like)](https://github.com/yumemi-inc/sea-query-common-like)
+[![mpyw/axios-case-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=axios-case-converter)](https://github.com/mpyw/axios-case-converter)  
+[![mpyw/FILTER_VALIDATE_EMAIL.js](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=FILTER_VALIDATE_EMAIL.js)](https://github.com/mpyw/FILTER_VALIDATE_EMAIL.js)
+[![mpyw/sharable-value-objects](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=sharable-value-objects)](https://github.com/mpyw/sharable-value-objects)  
+[![mpyw/uuid-ulid-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=uuid-ulid-converter)](https://github.com/mpyw/uuid-ulid-converter)
+[![mpyw/phpunit-patch-serializable-comparison](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=phpunit-patch-serializable-comparison)](https://github.com/mpyw/phpunit-patch-serializable-comparison)  
+[![mpyw/EasyCrypt](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=EasyCrypt)](https://github.com/mpyw/EasyCrypt)
+[![mpyw/unique-violation-detector](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=unique-violation-detector)](https://github.com/mpyw/unique-violation-detector)  
+[![lampager/lampager](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager)](https://github.com/lampager/lampager)
+[![lampager/lampager-doctrine2](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-doctrine2)](https://github.com/lampager/lampager-doctrine2)  
+[![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)
 
 More introduced in [Repositories](https://github.com/mpyw?tab=repositories).
 
