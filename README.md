@@ -48,7 +48,6 @@
 [![lampager/lampager-laravel](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-laravel)](https://github.com/lampager/lampager-laravel)  
 [![mpyw/scoped-auth](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=scoped-auth)](https://github.com/mpyw/scoped-auth)
 [![mpyw/streamable-console](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=streamable-console)](https://github.com/mpyw/streamable-console)  
-[![mpyw/compoships-eager-limit](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=compoships-eager-limit)](https://github.com/mpyw/compoships-eager-limit)
 
 More introduced in **[mpyw/laravel-packages](https://github.com/mpyw/laravel-packages)**.
 
