@@ -1,4 +1,4 @@
-**[@mpyw](https://github.com/mpyw)**, pronounced as *"mappy."* Web Backend Developer/Engineer. Laravel Contributor. 
+**[@mpyw](https://github.com/mpyw)**, pronounced as *"mappy."* Web Backend Developer/Engineer. Laravel Contributor.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpyw&layout=compact&theme=buefy)
 
@@ -34,34 +34,42 @@
 
 [![Qiita Posts](https://qiita-badge.apiapi.app/s/mpyw/posts.svg)](http://qiita.com/mpyw)
 [![Qiita Contributions](https://qiita-badge.apiapi.app/s/mpyw/contributions.svg)](http://qiita.com/mpyw)
-[![Qiita Followers](https://qiita-badge.apiapi.app/s/mpyw/followers.svg)](http://qiita.com/mpyw)  
+[![Qiita Followers](https://qiita-badge.apiapi.app/s/mpyw/followers.svg)](http://qiita.com/mpyw)
 [![Zenn Articles](https://badgen.org/img/zenn/mpyw/articles?style=flat)](https://zenn.dev/mpyw)
 [![Zenn Likes](https://badgen.org/img/zenn/mpyw/likes?style=flat)](https://zenn.dev/mpyw)
 [![Zenn Followers](https://badgen.org/img/zenn/mpyw/followers?style=flat)](https://zenn.dev/mpyw)
 
+## Go
+
+[![mpyw/feature](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=feature)](https://github.com/mpyw/feature)
+[![mpyw/suve](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=suve)](https://github.com/mpyw/suve)  
+
+## Rust
+
+[![yumemi-inc/sea-query-common-like](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=sea-query-common-like)](https://github.com/yumemi-inc/sea-query-common-like)
+
+## PHP
+
+[![lampager/lampager](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager)](https://github.com/lampager/lampager)
+[![mpyw/EasyCrypt](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=EasyCrypt)](https://github.com/mpyw/EasyCrypt)  
+[![mpyw/phpunit-patch-serializable-comparison](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=phpunit-patch-serializable-comparison)](https://github.com/mpyw/phpunit-patch-serializable-comparison)
+[![mpyw/sharable-value-objects](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=sharable-value-objects)](https://github.com/mpyw/sharable-value-objects)  
+[![lampager/lampager-doctrine2](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-doctrine2)](https://github.com/lampager/lampager-doctrine2)
+[![mpyw/unique-violation-detector](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=unique-violation-detector)](https://github.com/mpyw/unique-violation-detector)  
+
 ## Laravel
 
-[![mpyw/laravel-database-advisory-lock](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-database-advisory-lock)](https://github.com/mpyw/laravel-database-advisory-lock)
-[![mpyw/laravel-cached-database-stickiness](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-cached-database-stickiness)](https://github.com/mpyw/laravel-cached-database-stickiness)  
+[![mpyw/laravel-cached-database-stickiness](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-cached-database-stickiness)](https://github.com/mpyw/laravel-cached-database-stickiness)
+[![mpyw/laravel-database-advisory-lock](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-database-advisory-lock)](https://github.com/mpyw/laravel-database-advisory-lock)  
 [![mpyw/laravel-mysql-system-variable-manager](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=laravel-mysql-system-variable-manager)](https://github.com/mpyw/laravel-mysql-system-variable-manager)
-[![mpyw/scoped-auth](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=scoped-auth)](https://github.com/mpyw/scoped-auth)
-[![mpyw/streamable-console](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=streamable-console)](https://github.com/mpyw/streamable-console)  
+[![mpyw/scoped-auth](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=scoped-auth)](https://github.com/mpyw/scoped-auth)  
+[![mpyw/streamable-console](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=streamable-console)](https://github.com/mpyw/streamable-console)
 
 ## Others
 
-[![yumemi-inc/sea-query-common-like](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=sea-query-common-like)](https://github.com/yumemi-inc/sea-query-common-like)
-[![mpyw/axios-case-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=axios-case-converter)](https://github.com/mpyw/axios-case-converter)  
+[![mpyw/axios-case-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=axios-case-converter)](https://github.com/mpyw/axios-case-converter)
+[![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)  
 [![mpyw/FILTER_VALIDATE_EMAIL.js](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=FILTER_VALIDATE_EMAIL.js)](https://github.com/mpyw/FILTER_VALIDATE_EMAIL.js)
-[![mpyw/sharable-value-objects](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=sharable-value-objects)](https://github.com/mpyw/sharable-value-objects)  
-[![mpyw/uuid-ulid-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=uuid-ulid-converter)](https://github.com/mpyw/uuid-ulid-converter)
-[![mpyw/phpunit-patch-serializable-comparison](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=phpunit-patch-serializable-comparison)](https://github.com/mpyw/phpunit-patch-serializable-comparison)  
-[![mpyw/EasyCrypt](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=EasyCrypt)](https://github.com/mpyw/EasyCrypt)
-[![mpyw/unique-violation-detector](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=unique-violation-detector)](https://github.com/mpyw/unique-violation-detector)  
-[![lampager/lampager](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager)](https://github.com/lampager/lampager)
-[![lampager/lampager-doctrine2](https://github-readme-stats.vercel.app/api/pin/?username=lampager&repo=lampager-doctrine2)](https://github.com/lampager/lampager-doctrine2)  
-[![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)
+[![mpyw/uuid-ulid-converter](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=uuid-ulid-converter)](https://github.com/mpyw/uuid-ulid-converter)  
 
 More introduced in [Repositories](https://github.com/mpyw?tab=repositories).
-
-
-
