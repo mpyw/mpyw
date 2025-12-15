@@ -5,6 +5,7 @@
 [![Laravel: Expert](https://img.shields.io/static/v1?label=%E2%80%8B&message=Expert&color=blueviolet&style=flat-square&logo=laravel)](https://laravel.com/)
 [![PHP: Expert](https://img.shields.io/static/v1?label=%E2%80%8B&message=Expert&color=blueviolet&style=flat-square&logo=php)](https://www.php.net/)
 [![Golang: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=go)](https://golang.org/)
+[![Claude Code: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=claude)](https://claude.ai/download)
 [![Git: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=git)](https://git-scm.com/)
 [![Docker: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=docker)](https://www.docker.com/)
 [![HTML+CSS: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=html5)](https://html.spec.whatwg.org/multipage/)
