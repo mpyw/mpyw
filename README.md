@@ -43,6 +43,9 @@
 ## Go
 
 [![mpyw/feature](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=feature)](https://github.com/mpyw/feature)
+[![mpyw/goroutinectx](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=goroutinectx)](https://github.com/mpyw/goroutinectx)  
+[![mpyw/zerologlintctx](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=zerologlintctx)](https://github.com/mpyw/zerologlintctx)
+[![mpyw/gormreuse](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=gormreuse)](https://github.com/mpyw/gormreuse)  
 
 ## Rust
 
