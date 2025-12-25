@@ -40,6 +40,7 @@
 [![Zenn Likes](https://badgen.org/img/zenn/mpyw/likes?style=flat)](https://zenn.dev/mpyw)
 [![Zenn Followers](https://badgen.org/img/zenn/mpyw/followers?style=flat)](https://zenn.dev/mpyw)
 
+<!--
 ## Go
 
 [![mpyw/feature](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=feature)](https://github.com/mpyw/feature)
@@ -80,3 +81,4 @@
 [![mpyw/hub-purge](https://github-readme-stats.vercel.app/api/pin/?username=mpyw&repo=hub-purge)](https://github.com/mpyw/hub-purge)
 
 More introduced in [Repositories](https://github.com/mpyw?tab=repositories).
+-->
