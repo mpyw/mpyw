@@ -1,6 +1,6 @@
 **[@mpyw](https://github.com/mpyw)**, pronounced as *"mappy."* Web Backend Developer/Engineer. Laravel Contributor.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpyw&layout=compact&theme=buefy)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpyw&layout=compact&theme=buefy) -->
 
 [![Laravel: Expert](https://img.shields.io/static/v1?label=%E2%80%8B&message=Expert&color=blueviolet&style=flat-square&logo=laravel)](https://laravel.com/)
 [![PHP: Expert](https://img.shields.io/static/v1?label=%E2%80%8B&message=Expert&color=blueviolet&style=flat-square&logo=php)](https://www.php.net/)
