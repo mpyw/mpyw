@@ -24,7 +24,7 @@
 [![Apache: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=green&style=flat-square&logo=apache)](https://httpd.apache.org/)
 [![C: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=green&style=flat-square&logo=c)](http://www.open-std.org/jtc1/sc22/wg14/)
 [![Java: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=green&style=flat-square&logo=openjdk)](https://www.java.com/)
-[![Kotlin: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Novice&color=lightgray&style=flat-square&logo=kotlin)](https://kotlinlang.org/)
+[![Kotlin: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=lightgray&style=flat-square&logo=kotlin)](https://kotlinlang.org/)
 [![Kubernetes: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=green&style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 [![Next: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=green&style=flat-square&logo=nextdotjs)](https://nextjs.org/)
 [![Nginx: Beginner](https://img.shields.io/static/v1?label=%E2%80%8B&message=Beginner&color=green&style=flat-square&logo=nginx)](https://www.nginx.com/)
