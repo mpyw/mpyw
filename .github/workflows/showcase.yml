@@ -1,0 +1,51 @@
+name: Update showcase
+
+# Regenerates the repository cards and the showcase section of the README.
+#
+# Note: GitHub disables scheduled workflows after 60 days without repository
+# activity. The daily commit below normally counts, but if the schedule ever
+# goes quiet, re-enable it from the Actions tab or run it via workflow_dispatch.
+
+on:
+  schedule:
+    - cron: '17 21 * * *' # 06:17 JST daily
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'showcase/**'
+      - '.github/workflows/showcase.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: showcase
+  cancel-in-progress: false
+
+jobs:
+  showcase:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate cards and README section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node showcase/generate.mjs
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md cards; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md cards
+          git commit -m 'Update showcase cards'
+          git push

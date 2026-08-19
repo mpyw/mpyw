@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "title": "Go",
+      "repos": [
+        "mpyw/suve",
+        "mpyw/feature",
+        "mpyw/sqlc-restruct",
+        "mpyw/sql-http-proxy",
+        "mpyw/bisql",
+        "mpyw/ctxweaver",
+        "mpyw/goroutinectx",
+        "mpyw/gormreuse",
+        "mpyw/zerologlintctx"
+      ]
+    },
+    {
+      "title": "Rust",
+      "repos": [
+        "mpyw/sea-query-common-like",
+        "mpyw/donna-iro"
+      ]
+    },
+    {
+      "title": "TypeScript",
+      "repos": [
+        "mpyw/axios-case-converter",
+        "mpyw/FILTER_VALIDATE_EMAIL.js"
+      ]
+    },
+    {
+      "title": "PHP / Laravel",
+      "repos": [
+        "mpyw/laravel-cached-database-stickiness",
+        "mpyw/comphar",
+        "mpyw/laravel-database-advisory-lock",
+        "mpyw/EasyCrypt",
+        "mpyw/laravel-local-class-scope",
+        "mpyw/null-auth",
+        "lampager/lampager-laravel",
+        "lampager/lampager",
+        "lampager/lampager-doctrine2",
+        "lampager/lampager-cakephp"
+      ]
+    },
+    {
+      "title": "Others",
+      "repos": [
+        "mpyw/hub-purge"
+      ]
+    }
+  ]
+}
