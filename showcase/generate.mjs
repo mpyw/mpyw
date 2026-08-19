@@ -17,9 +17,10 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const START = '<!-- SHOWCASE:START -->'
 const END = '<!-- SHOWCASE:END -->'
 
-const CARD_WIDTH = 420
+const CARD_WIDTH = 400
 const CARD_HEIGHT = 120
 const PADDING = 16
+const CARDS_PER_ROW = 2
 const DESC_LINES = 2
 
 const THEMES = {
@@ -131,7 +132,7 @@ const renderCard = (repo, theme) => {
 
   const titleSize = 15
   const titleX = PADDING + 22
-  const title = truncate(repo.full_name, titleSize, inner - 22)
+  const title = truncate(repo.displayName, titleSize, inner - 22)
 
   const descSize = 12.5
   const descLines = wrap(repo.description || '', descSize, inner, DESC_LINES)
@@ -201,6 +202,13 @@ const fetchRepo = async (fullName) => {
 
 const main = async () => {
   const config = JSON.parse(await readFile(resolve(ROOT, 'showcase/config.json'), 'utf8'))
+  const owner = config.owner
+
+  // Everything on a profile README belongs to the profile owner, so the owner
+  // prefix is noise there — and dropping it keeps long names off the ellipsis.
+  // Repositories in other orgs keep theirs, which is the informative part.
+  const displayName = (fullName) =>
+    fullName.startsWith(`${owner}/`) ? fullName.slice(owner.length + 1) : fullName
 
   const groups = []
   const keep = new Set()
@@ -208,6 +216,7 @@ const main = async () => {
     const repos = []
     for (const fullName of group.repos) {
       const repo = await fetchRepo(fullName)
+      repo.displayName = displayName(repo.full_name)
       repos.push(repo)
       keep.add(`${slug(repo.full_name)}.svg`)
       for (const theme of Object.keys(THEMES)) {
@@ -230,21 +239,27 @@ const main = async () => {
     }
   }
 
+  const card = (repo) => {
+    const file = `${slug(repo.full_name)}.svg`
+    return [
+      `<a href="${repo.html_url}">`,
+      `  <picture>`,
+      `    <source media="(prefers-color-scheme: dark)" srcset="cards/dark/${file}">`,
+      `    <img src="cards/light/${file}" width="${CARD_WIDTH}" alt="${escape(repo.full_name)}">`,
+      `  </picture>`,
+      `</a>`,
+    ].join('\n')
+  }
+
   const sections = groups.map((group) => {
-    const cards = group.repos
-      .map((repo) => {
-        const file = `${slug(repo.full_name)}.svg`
-        return [
-          `<a href="${repo.html_url}">`,
-          `  <picture>`,
-          `    <source media="(prefers-color-scheme: dark)" srcset="cards/dark/${file}">`,
-          `    <img src="cards/light/${file}" width="${CARD_WIDTH}" alt="${escape(repo.full_name)}">`,
-          `  </picture>`,
-          `</a>`,
-        ].join('\n')
-      })
-      .join('\n')
-    return `## ${group.title}\n\n${cards}\n`
+    // Two cards per row, as the old pinned layout had them. <br> rather than a
+    // trailing-space hard break, which markdown does not honour inside a raw
+    // HTML block.
+    const rows = []
+    for (let i = 0; i < group.repos.length; i += CARDS_PER_ROW) {
+      rows.push(group.repos.slice(i, i + CARDS_PER_ROW).map(card).join('\n'))
+    }
+    return `## ${group.title}\n\n${rows.join('\n<br>\n')}\n`
   })
 
   const body = [
