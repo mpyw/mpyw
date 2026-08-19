@@ -3,73 +3,95 @@
   "groups": [
     {
       "title": "Go",
-      "repos": [
-        "mpyw/suve",
-        "mpyw/feature",
-        "mpyw/sqlc-restruct",
-        "mpyw/sql-http-proxy",
-        "mpyw/bisql",
-        "mpyw/ctxweaver",
-        "mpyw/go-snippets",
-        "mpyw/gormreuse",
-        "mpyw/goroutinectx",
-        "mpyw/moneyforward-paypaysec-bridge-action",
-        "mpyw/zerologlintctx"
+      "groups": [
+        {
+          "title": "Tool",
+          "repos": [
+            "suve",
+            "ctxweaver",
+            "sql-http-proxy",
+            "sqlc-restruct",
+            "moneyforward-paypaysec-bridge-action"
+          ]
+        },
+        {
+          "title": "Library",
+          "repos": [
+            "bisql",
+            "feature"
+          ]
+        },
+        {
+          "title": "Linter",
+          "repos": [
+            "gormreuse",
+            "goroutinectx",
+            "zerologlintctx"
+          ]
+        }
       ]
     },
     {
       "title": "Rust",
       "repos": [
-        "mpyw/sea-query-common-like",
-        "mpyw/donna-iro"
+        "sea-query-common-like",
+        "donna-iro"
       ]
     },
     {
       "title": "TypeScript",
       "repos": [
-        "mpyw/axios-case-converter",
-        "mpyw/FILTER_VALIDATE_EMAIL.js",
-        "mpyw/mood-visualizer"
+        "axios-case-converter",
+        "FILTER_VALIDATE_EMAIL.js"
       ]
     },
     {
-      "title": "PHP / Laravel",
-      "repos": [
-        "mpyw/laravel-cached-database-stickiness",
-        "mpyw/comphar",
-        "mpyw/laravel-database-advisory-lock",
-        "mpyw/EasyCrypt",
-        "mpyw/laravel-local-class-scope",
-        "mpyw/null-auth",
-        "mpyw/laravel-mysql-system-variable-manager",
-        "mpyw/scoped-auth",
-        "mpyw/uuid-ulid-converter",
-        "mpyw/sharable-value-objects",
-        "mpyw/laravel-database-mock",
-        "mpyw/BaseUTF8",
-        "mpyw/mockery-pdo",
-        "mpyw/streamable-console",
-        "mpyw/laravel-file-errors",
-        "mpyw/laravel-pdo-emulation-control",
-        "mpyw/unique-violation-detector",
-        "mpyw/unclosure",
-        "lampager/lampager-laravel",
-        "lampager/lampager",
-        "lampager/lampager-cakephp",
-        "lampager/lampager-doctrine2"
+      "title": "PHP",
+      "groups": [
+        {
+          "title": "Laravel",
+          "repos": [
+            "laravel-cached-database-stickiness",
+            "laravel-database-advisory-lock",
+            "laravel-mysql-system-variable-manager",
+            "laravel-local-class-scope",
+            "laravel-pdo-emulation-control",
+            "laravel-database-mock",
+            "laravel-file-errors",
+            "lampager/lampager-laravel",
+            "null-auth",
+            "scoped-auth",
+            "streamable-console",
+            "unclosure"
+          ]
+        },
+        {
+          "title": "Library",
+          "repos": [
+            "sharable-value-objects",
+            "uuid-ulid-converter",
+            "mockery-pdo",
+            "unique-violation-detector",
+            "EasyCrypt",
+            "BaseUTF8",
+            "lampager/lampager",
+            "lampager/lampager-doctrine2",
+            "lampager/lampager-cakephp"
+          ]
+        },
+        {
+          "title": "Tool",
+          "repos": [
+            "comphar"
+          ]
+        }
       ]
     },
     {
       "title": "Others",
       "repos": [
-        "mpyw/hub-purge",
-        "mpyw/my-bookmarklet-collection",
-        "mpyw/zenn",
-        "mpyw/FILTER_VALIDATE_EMAIL.html",
-        "mpyw/moneyforward-paypaysec-bridge-template",
-        "mpyw/homebrew-tap",
-        "mpyw/mpyw.github.io",
-        "mpyw/scoop-bucket"
+        "hub-purge",
+        "FILTER_VALIDATE_EMAIL.html"
       ]
     }
   ]
