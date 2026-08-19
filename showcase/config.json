@@ -1,0 +1,98 @@
+{
+  "owner": "mpyw",
+  "groups": [
+    {
+      "title": "Go",
+      "groups": [
+        {
+          "title": "Tool",
+          "repos": [
+            "suve",
+            "ctxweaver",
+            "sql-http-proxy",
+            "sqlc-restruct",
+            "moneyforward-paypaysec-bridge-action"
+          ]
+        },
+        {
+          "title": "Library",
+          "repos": [
+            "bisql",
+            "feature"
+          ]
+        },
+        {
+          "title": "Linter",
+          "repos": [
+            "gormreuse",
+            "goroutinectx",
+            "zerologlintctx"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rust",
+      "repos": [
+        "sea-query-common-like",
+        "donna-iro"
+      ]
+    },
+    {
+      "title": "TypeScript",
+      "repos": [
+        "axios-case-converter",
+        "FILTER_VALIDATE_EMAIL.js"
+      ]
+    },
+    {
+      "title": "PHP",
+      "groups": [
+        {
+          "title": "Laravel",
+          "repos": [
+            "laravel-cached-database-stickiness",
+            "laravel-database-advisory-lock",
+            "laravel-mysql-system-variable-manager",
+            "laravel-local-class-scope",
+            "laravel-pdo-emulation-control",
+            "laravel-database-mock",
+            "laravel-file-errors",
+            "lampager/lampager-laravel",
+            "null-auth",
+            "scoped-auth",
+            "streamable-console",
+            "unclosure"
+          ]
+        },
+        {
+          "title": "Library",
+          "repos": [
+            "sharable-value-objects",
+            "uuid-ulid-converter",
+            "mockery-pdo",
+            "unique-violation-detector",
+            "EasyCrypt",
+            "BaseUTF8",
+            "lampager/lampager",
+            "lampager/lampager-doctrine2",
+            "lampager/lampager-cakephp"
+          ]
+        },
+        {
+          "title": "Tool",
+          "repos": [
+            "comphar"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Others",
+      "repos": [
+        "hub-purge",
+        "FILTER_VALIDATE_EMAIL.html"
+      ]
+    }
+  ]
+}
