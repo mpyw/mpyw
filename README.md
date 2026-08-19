@@ -16,7 +16,7 @@
 [![Rust: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![ShellScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![TypeScript: Pro](https://img.shields.io/static/v1?label=%E2%80%8B&message=Pro&color=blue&style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![AWS: Competent](https://img.shields.io/static/v1?label=%E2%80%8B&message=Competent&color=brightgreen&style=flat-square&logo=amazonwebservices)](https://aws.amazon.com/)
+[![AWS: Competent](badges/aws.svg)](https://aws.amazon.com/)
 [![Elasticsearch: Competent](https://img.shields.io/static/v1?label=%E2%80%8B&message=Competent&color=brightgreen&style=flat-square&logo=elasticsearch)](https://www.elastic.co/elasticsearch/)
 [![React: Competent](https://img.shields.io/static/v1?label=%E2%80%8B&message=Competent&color=brightgreen&style=flat-square&logo=react)](https://reactjs.org/tutorial/tutorial.html)
 [![Serverless Framework: Competent](https://img.shields.io/static/v1?label=%E2%80%8B&message=Competent&color=brightgreen&style=flat-square&logo=serverless)](https://www.serverless.com/)
@@ -33,12 +33,12 @@
 [![Google Cloud: Novice](https://img.shields.io/static/v1?label=%E2%80%8B&message=Novice&color=lightgray&style=flat-square&logo=googlecloud)](https://console.cloud.google.com/)
 [![Rails: Novice](https://img.shields.io/static/v1?label=%E2%80%8B&message=Novice&color=lightgray&style=flat-square&logo=rubyonrails)](https://rubyonrails.org/)
 
-[![Qiita Posts](https://qiita-badge.apiapi.app/s/mpyw/posts.svg)](http://qiita.com/mpyw)
-[![Qiita Contributions](https://qiita-badge.apiapi.app/s/mpyw/contributions.svg)](http://qiita.com/mpyw)
-[![Qiita Followers](https://qiita-badge.apiapi.app/s/mpyw/followers.svg)](http://qiita.com/mpyw)
 [![Zenn Articles](https://badgen.org/img/zenn/mpyw/articles?style=flat)](https://zenn.dev/mpyw)
 [![Zenn Likes](https://badgen.org/img/zenn/mpyw/likes?style=flat)](https://zenn.dev/mpyw)
 [![Zenn Followers](https://badgen.org/img/zenn/mpyw/followers?style=flat)](https://zenn.dev/mpyw)
+[![Qiita Posts](https://qiita-badge.apiapi.app/s/mpyw/posts.svg)](http://qiita.com/mpyw)
+[![Qiita Contributions](https://qiita-badge.apiapi.app/s/mpyw/contributions.svg)](http://qiita.com/mpyw)
+[![Qiita Followers](https://qiita-badge.apiapi.app/s/mpyw/followers.svg)](http://qiita.com/mpyw)
 
 <!--
 ## Go
