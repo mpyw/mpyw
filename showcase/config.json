@@ -9,8 +9,9 @@
           "repos": [
             "suve",
             "ctxweaver",
-            "sql-http-proxy",
+            "sqlc-gen-go-dynamic",
             "sqlc-restruct",
+            "sql-http-proxy",
             "moneyforward-paypaysec-bridge-action"
           ]
         },
