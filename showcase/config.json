@@ -25,6 +25,7 @@
         {
           "title": "Linter",
           "repos": [
+            "declscope",
             "gormreuse",
             "goroutinectx",
             "zerologlintctx"
