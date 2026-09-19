@@ -23,9 +23,28 @@ const PADDING = 16
 const CARDS_PER_ROW = 2
 const DESC_LINES = 2
 
+// `highlight` repositories swap the card's backdrop for a tint of the Go
+// language colour, so a pinned project reads as slightly raised without
+// breaking the GitHub palette the rest of the card borrows from.
 const THEMES = {
-  light: { bg: '#ffffff', border: '#d1d9e0', title: '#0969da', text: '#59636e', icon: '#59636e' },
-  dark: { bg: '#0d1117', border: '#3d444d', title: '#4493f8', text: '#9198a1', icon: '#9198a1' },
+  light: {
+    bg: '#ffffff',
+    border: '#d1d9e0',
+    highlightBg: '#eaf7fc',
+    highlightBorder: '#8ecfe3',
+    title: '#0969da',
+    text: '#59636e',
+    icon: '#59636e',
+  },
+  dark: {
+    bg: '#0d1117',
+    border: '#3d444d',
+    highlightBg: '#0a1f28',
+    highlightBorder: '#1f5a70',
+    title: '#4493f8',
+    text: '#9198a1',
+    icon: '#9198a1',
+  },
 }
 
 // github/linguist colours for the languages this showcase actually uses.
@@ -140,9 +159,12 @@ const renderCard = (repo, theme) => {
   const metaY = CARD_HEIGHT - PADDING - 4
   const metaSize = 12
 
+  const bg = repo.highlight ? t.highlightBg : t.bg
+  const border = repo.highlight ? t.highlightBorder : t.border
+
   const parts = []
   parts.push(
-    `<rect x="0.5" y="0.5" width="${CARD_WIDTH - 1}" height="${CARD_HEIGHT - 1}" rx="6" fill="${t.bg}" stroke="${t.border}"/>`
+    `<rect x="0.5" y="0.5" width="${CARD_WIDTH - 1}" height="${CARD_HEIGHT - 1}" rx="6" fill="${bg}" stroke="${border}"/>`
   )
   parts.push(icon(ICONS.repo, PADDING, PADDING + 1, t.icon))
   parts.push(
@@ -204,8 +226,9 @@ const main = async () => {
   const config = JSON.parse(await readFile(resolve(ROOT, 'showcase/config.json'), 'utf8'))
   const owner = config.owner
 
-  // A bare name means the profile owner's repository; anything else is written
-  // in full, which is also how it is labelled on the card.
+  // A repository is either a bare name or `{ name, highlight }`. A bare name
+  // means the profile owner's repository; anything else is written in full,
+  // which is also how it is labelled on the card.
   const qualify = (name) => (name.includes('/') ? name : `${owner}/${name}`)
   const displayName = (fullName) =>
     fullName.startsWith(`${owner}/`) ? fullName.slice(owner.length + 1) : fullName
@@ -222,9 +245,11 @@ const main = async () => {
     }
     if (group.repos) {
       resolved.repos = []
-      for (const name of group.repos) {
+      for (const entry of group.repos) {
+        const { name, highlight = false } = typeof entry === 'string' ? { name: entry } : entry
         const repo = await fetchRepo(qualify(name))
         repo.displayName = displayName(repo.full_name)
+        repo.highlight = highlight
         resolved.repos.push(repo)
         keep.add(`${slug(repo.full_name)}.svg`)
         for (const theme of Object.keys(THEMES)) {

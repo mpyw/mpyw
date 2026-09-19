@@ -7,7 +7,7 @@
         {
           "title": "Linter",
           "repos": [
-            "declscope",
+            { "name": "declscope", "highlight": true },
             "gormreuse",
             "zerologlintctx",
             "goroutinectx"
