@@ -45,29 +45,31 @@
 
 ## Go
 
-### Tool
-
-<a href="https://github.com/mpyw/suve"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__suve.svg"><img src="cards/light/mpyw__suve.svg" width="400" alt="mpyw/suve"></picture></a>
-<a href="https://github.com/mpyw/ctxweaver"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__ctxweaver.svg"><img src="cards/light/mpyw__ctxweaver.svg" width="400" alt="mpyw/ctxweaver"></picture></a>
-<br>
-<a href="https://github.com/mpyw/sqlc-gen-go-dynamic"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sqlc-gen-go-dynamic.svg"><img src="cards/light/mpyw__sqlc-gen-go-dynamic.svg" width="400" alt="mpyw/sqlc-gen-go-dynamic"></picture></a>
-<a href="https://github.com/mpyw/sqlc-restruct"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sqlc-restruct.svg"><img src="cards/light/mpyw__sqlc-restruct.svg" width="400" alt="mpyw/sqlc-restruct"></picture></a>
-<br>
-<a href="https://github.com/mpyw/sql-http-proxy"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sql-http-proxy.svg"><img src="cards/light/mpyw__sql-http-proxy.svg" width="400" alt="mpyw/sql-http-proxy"></picture></a>
-<a href="https://github.com/mpyw/moneyforward-paypaysec-bridge-action"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__moneyforward-paypaysec-bridge-action.svg"><img src="cards/light/mpyw__moneyforward-paypaysec-bridge-action.svg" width="400" alt="mpyw/moneyforward-paypaysec-bridge-action"></picture></a>
-
-### Library
-
-<a href="https://github.com/mpyw/bisql"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__bisql.svg"><img src="cards/light/mpyw__bisql.svg" width="400" alt="mpyw/bisql"></picture></a>
-<a href="https://github.com/mpyw/feature"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__feature.svg"><img src="cards/light/mpyw__feature.svg" width="400" alt="mpyw/feature"></picture></a>
-
 ### Linter
 
 <a href="https://github.com/mpyw/declscope"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__declscope.svg"><img src="cards/light/mpyw__declscope.svg" width="400" alt="mpyw/declscope"></picture></a>
 <a href="https://github.com/mpyw/gormreuse"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gormreuse.svg"><img src="cards/light/mpyw__gormreuse.svg" width="400" alt="mpyw/gormreuse"></picture></a>
 <br>
-<a href="https://github.com/mpyw/goroutinectx"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__goroutinectx.svg"><img src="cards/light/mpyw__goroutinectx.svg" width="400" alt="mpyw/goroutinectx"></picture></a>
 <a href="https://github.com/mpyw/zerologlintctx"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__zerologlintctx.svg"><img src="cards/light/mpyw__zerologlintctx.svg" width="400" alt="mpyw/zerologlintctx"></picture></a>
+<a href="https://github.com/mpyw/goroutinectx"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__goroutinectx.svg"><img src="cards/light/mpyw__goroutinectx.svg" width="400" alt="mpyw/goroutinectx"></picture></a>
+
+### Library
+
+<a href="https://github.com/mpyw/feature"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__feature.svg"><img src="cards/light/mpyw__feature.svg" width="400" alt="mpyw/feature"></picture></a>
+<a href="https://github.com/mpyw/go-skill-embed"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__go-skill-embed.svg"><img src="cards/light/mpyw__go-skill-embed.svg" width="400" alt="mpyw/go-skill-embed"></picture></a>
+<br>
+<a href="https://github.com/mpyw/bisql"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__bisql.svg"><img src="cards/light/mpyw__bisql.svg" width="400" alt="mpyw/bisql"></picture></a>
+
+### Tool
+
+<a href="https://github.com/mpyw/suve"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__suve.svg"><img src="cards/light/mpyw__suve.svg" width="400" alt="mpyw/suve"></picture></a>
+<a href="https://github.com/mpyw/ctxweaver"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__ctxweaver.svg"><img src="cards/light/mpyw__ctxweaver.svg" width="400" alt="mpyw/ctxweaver"></picture></a>
+<br>
+<a href="https://github.com/mpyw/sql-http-proxy"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sql-http-proxy.svg"><img src="cards/light/mpyw__sql-http-proxy.svg" width="400" alt="mpyw/sql-http-proxy"></picture></a>
+<a href="https://github.com/mpyw/moneyforward-paypaysec-bridge-action"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__moneyforward-paypaysec-bridge-action.svg"><img src="cards/light/mpyw__moneyforward-paypaysec-bridge-action.svg" width="400" alt="mpyw/moneyforward-paypaysec-bridge-action"></picture></a>
+<br>
+<a href="https://github.com/mpyw/sqlc-restruct"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sqlc-restruct.svg"><img src="cards/light/mpyw__sqlc-restruct.svg" width="400" alt="mpyw/sqlc-restruct"></picture></a>
+<a href="https://github.com/mpyw/sqlc-gen-go-dynamic"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sqlc-gen-go-dynamic.svg"><img src="cards/light/mpyw__sqlc-gen-go-dynamic.svg" width="400" alt="mpyw/sqlc-gen-go-dynamic"></picture></a>
 
 ## Rust
 
