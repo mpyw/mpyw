@@ -5,30 +5,31 @@
       "title": "Go",
       "groups": [
         {
-          "title": "Tool",
+          "title": "Linter",
           "repos": [
-            "suve",
-            "ctxweaver",
-            "sqlc-gen-go-dynamic",
-            "sqlc-restruct",
-            "sql-http-proxy",
-            "moneyforward-paypaysec-bridge-action"
+            "declscope",
+            "gormreuse",
+            "zerologlintctx",
+            "goroutinectx"
           ]
         },
         {
           "title": "Library",
           "repos": [
-            "bisql",
-            "feature"
+            "feature",
+            "go-skill-embed",
+            "bisql"
           ]
         },
         {
-          "title": "Linter",
+          "title": "Tool",
           "repos": [
-            "declscope",
-            "gormreuse",
-            "goroutinectx",
-            "zerologlintctx"
+            "suve",
+            "ctxweaver",
+            "sql-http-proxy",
+            "moneyforward-paypaysec-bridge-action",
+            "sqlc-restruct",
+            "sqlc-gen-go-dynamic"
           ]
         }
       ]
