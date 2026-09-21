@@ -73,7 +73,9 @@
 
 ## Rust
 
+<a href="https://github.com/mpyw/rust-skill-embed"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__rust-skill-embed.svg"><img src="cards/light/mpyw__rust-skill-embed.svg" width="400" alt="mpyw/rust-skill-embed"></picture></a>
 <a href="https://github.com/mpyw/sea-query-common-like"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sea-query-common-like.svg"><img src="cards/light/mpyw__sea-query-common-like.svg" width="400" alt="mpyw/sea-query-common-like"></picture></a>
+<br>
 <a href="https://github.com/mpyw/donna-iro"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__donna-iro.svg"><img src="cards/light/mpyw__donna-iro.svg" width="400" alt="mpyw/donna-iro"></picture></a>
 
 ## TypeScript
