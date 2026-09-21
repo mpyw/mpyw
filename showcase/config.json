@@ -37,6 +37,7 @@
     {
       "title": "Rust",
       "repos": [
+        "rust-skill-embed",
         "sea-query-common-like",
         "donna-iro"
       ]
