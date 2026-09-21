@@ -55,8 +55,8 @@
 
 ### Library
 
-<a href="https://github.com/mpyw/feature"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__feature.svg"><img src="cards/light/mpyw__feature.svg" width="400" alt="mpyw/feature"></picture></a>
 <a href="https://github.com/mpyw/go-skill-embed"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__go-skill-embed.svg"><img src="cards/light/mpyw__go-skill-embed.svg" width="400" alt="mpyw/go-skill-embed"></picture></a>
+<a href="https://github.com/mpyw/feature"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__feature.svg"><img src="cards/light/mpyw__feature.svg" width="400" alt="mpyw/feature"></picture></a>
 <br>
 <a href="https://github.com/mpyw/bisql"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__bisql.svg"><img src="cards/light/mpyw__bisql.svg" width="400" alt="mpyw/bisql"></picture></a>
 
