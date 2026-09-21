@@ -16,8 +16,8 @@
         {
           "title": "Library",
           "repos": [
-            "feature",
             "go-skill-embed",
+            "feature",
             "bisql"
           ]
         },
