@@ -45,6 +45,7 @@
     {
       "title": "TypeScript",
       "repos": [
+        { "name": "you-are-llm", "highlight": true },
         "axios-case-converter",
         "FILTER_VALIDATE_EMAIL.js"
       ]

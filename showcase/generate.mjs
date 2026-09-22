@@ -23,15 +23,17 @@ const PADDING = 16
 const CARDS_PER_ROW = 2
 const DESC_LINES = 2
 
-// `highlight` repositories swap the card's backdrop for a tint of the Go
+// `highlight` repositories swap the card's backdrop for a tint of their
 // language colour, so a pinned project reads as slightly raised without
 // breaking the GitHub palette the rest of the card borrows from.
 const THEMES = {
   light: {
     bg: '#ffffff',
     border: '#d1d9e0',
-    highlightBg: '#eaf7fc',
-    highlightBorder: '#8ecfe3',
+    highlight: {
+      Go: { bg: '#eaf7fc', border: '#8ecfe3' },
+      TypeScript: { bg: '#ecf3fa', border: '#a4c4e6' },
+    },
     title: '#0969da',
     text: '#59636e',
     icon: '#59636e',
@@ -39,8 +41,10 @@ const THEMES = {
   dark: {
     bg: '#0d1117',
     border: '#3d444d',
-    highlightBg: '#0a1f28',
-    highlightBorder: '#1f5a70',
+    highlight: {
+      Go: { bg: '#0a1f28', border: '#1f5a70' },
+      TypeScript: { bg: '#101a27', border: '#1e4169' },
+    },
     title: '#4493f8',
     text: '#9198a1',
     icon: '#9198a1',
@@ -159,8 +163,10 @@ const renderCard = (repo, theme) => {
   const metaY = CARD_HEIGHT - PADDING - 4
   const metaSize = 12
 
-  const bg = repo.highlight ? t.highlightBg : t.bg
-  const border = repo.highlight ? t.highlightBorder : t.border
+  const tint = repo.highlight ? t.highlight[repo.language] : undefined
+  if (repo.highlight && !tint) throw new Error(`${repo.full_name}: no highlight tint for ${repo.language}`)
+  const bg = tint ? tint.bg : t.bg
+  const border = tint ? tint.border : t.border
 
   const parts = []
   parts.push(
