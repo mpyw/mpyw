@@ -24,7 +24,7 @@
         {
           "title": "Tool",
           "repos": [
-            "suve",
+            { "name": "suve", "highlight": true },
             "ctxweaver",
             "sql-http-proxy",
             "moneyforward-paypaysec-bridge-action",
