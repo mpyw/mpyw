@@ -51,8 +51,9 @@
 <a href="https://github.com/mpyw/errlogreturn"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__errlogreturn.svg"><img src="cards/light/mpyw__errlogreturn.svg" width="400" alt="mpyw/errlogreturn"></picture></a>
 <br>
 <a href="https://github.com/mpyw/gormreuse"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gormreuse.svg"><img src="cards/light/mpyw__gormreuse.svg" width="400" alt="mpyw/gormreuse"></picture></a>
-<a href="https://github.com/mpyw/zerologlintctx"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__zerologlintctx.svg"><img src="cards/light/mpyw__zerologlintctx.svg" width="400" alt="mpyw/zerologlintctx"></picture></a>
+<a href="https://github.com/mpyw/molint"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__molint.svg"><img src="cards/light/mpyw__molint.svg" width="400" alt="mpyw/molint"></picture></a>
 <br>
+<a href="https://github.com/mpyw/zerologlintctx"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__zerologlintctx.svg"><img src="cards/light/mpyw__zerologlintctx.svg" width="400" alt="mpyw/zerologlintctx"></picture></a>
 <a href="https://github.com/mpyw/goroutinectx"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__goroutinectx.svg"><img src="cards/light/mpyw__goroutinectx.svg" width="400" alt="mpyw/goroutinectx"></picture></a>
 
 ### Library
