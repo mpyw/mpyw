@@ -10,6 +10,7 @@
             { "name": "declscope", "highlight": true },
             "errlogreturn",
             "gormreuse",
+            "molint",
             "zerologlintctx",
             "goroutinectx"
           ]
