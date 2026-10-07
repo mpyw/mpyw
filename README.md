@@ -80,6 +80,7 @@
 <a href="https://github.com/mpyw/sea-query-common-like"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__sea-query-common-like.svg"><img src="cards/light/mpyw__sea-query-common-like.svg" width="400" alt="mpyw/sea-query-common-like"></picture></a>
 <br>
 <a href="https://github.com/mpyw/donna-iro"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__donna-iro.svg"><img src="cards/light/mpyw__donna-iro.svg" width="400" alt="mpyw/donna-iro"></picture></a>
+<a href="https://github.com/mpyw/laravel-facade-rs"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__laravel-facade-rs.svg"><img src="cards/light/mpyw__laravel-facade-rs.svg" width="400" alt="mpyw/laravel-facade-rs"></picture></a>
 
 ## TypeScript
 
