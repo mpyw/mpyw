@@ -135,6 +135,8 @@
 ## Others
 
 <a href="https://github.com/mpyw/hub-purge"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__hub-purge.svg"><img src="cards/light/mpyw__hub-purge.svg" width="400" alt="mpyw/hub-purge"></picture></a>
+<a href="https://github.com/mpyw/npm-oidc-check-action"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__npm-oidc-check-action.svg"><img src="cards/light/mpyw__npm-oidc-check-action.svg" width="400" alt="mpyw/npm-oidc-check-action"></picture></a>
+<br>
 <a href="https://github.com/mpyw/FILTER_VALIDATE_EMAIL.html"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__FILTER_VALIDATE_EMAIL.html.svg"><img src="cards/light/mpyw__FILTER_VALIDATE_EMAIL.html.svg" width="400" alt="mpyw/FILTER_VALIDATE_EMAIL.html"></picture></a>
 
 More introduced in [Repositories](https://github.com/mpyw?tab=repositories).
