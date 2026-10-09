@@ -20,6 +20,8 @@
           "repos": [
             "go-skill-embed",
             "feature",
+            "gophper",
+            "gophper-wasm",
             "bisql",
             "ymm-oss/terraform-provider-slackapp"
           ]
