@@ -61,6 +61,9 @@
 <a href="https://github.com/mpyw/go-skill-embed"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__go-skill-embed.svg"><img src="cards/light/mpyw__go-skill-embed.svg" width="400" alt="mpyw/go-skill-embed"></picture></a>
 <a href="https://github.com/mpyw/feature"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__feature.svg"><img src="cards/light/mpyw__feature.svg" width="400" alt="mpyw/feature"></picture></a>
 <br>
+<a href="https://github.com/mpyw/whisper.go"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__whisper.go.svg"><img src="cards/light/mpyw__whisper.go.svg" width="400" alt="mpyw/whisper.go"></picture></a>
+<a href="https://github.com/mpyw/whisper.go-wasm"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__whisper.go-wasm.svg"><img src="cards/light/mpyw__whisper.go-wasm.svg" width="400" alt="mpyw/whisper.go-wasm"></picture></a>
+<br>
 <a href="https://github.com/mpyw/gophper"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gophper.svg"><img src="cards/light/mpyw__gophper.svg" width="400" alt="mpyw/gophper"></picture></a>
 <a href="https://github.com/mpyw/gophper-wasm"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gophper-wasm.svg"><img src="cards/light/mpyw__gophper-wasm.svg" width="400" alt="mpyw/gophper-wasm"></picture></a>
 <br>
