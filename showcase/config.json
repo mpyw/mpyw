@@ -20,6 +20,8 @@
           "repos": [
             "go-skill-embed",
             "feature",
+            "whisper.go",
+            "whisper.go-wasm",
             "gophper",
             "gophper-wasm",
             "bisql",
