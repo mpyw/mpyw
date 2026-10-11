@@ -21,9 +21,7 @@
             "go-skill-embed",
             "feature",
             "whisper.go",
-            "whisper.go-wasm",
             "gophper",
-            "gophper-wasm",
             "bisql",
             "ymm-oss/terraform-provider-slackapp"
           ]
@@ -105,7 +103,9 @@
       "repos": [
         "hub-purge",
         "npm-oidc-check-action",
-        "FILTER_VALIDATE_EMAIL.html"
+        "FILTER_VALIDATE_EMAIL.html",
+        "whisper.go-wasm",
+        "gophper-wasm"
       ]
     }
   ]
