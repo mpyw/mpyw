@@ -62,10 +62,7 @@
 <a href="https://github.com/mpyw/feature"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__feature.svg"><img src="cards/light/mpyw__feature.svg" width="400" alt="mpyw/feature"></picture></a>
 <br>
 <a href="https://github.com/mpyw/whisper.go"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__whisper.go.svg"><img src="cards/light/mpyw__whisper.go.svg" width="400" alt="mpyw/whisper.go"></picture></a>
-<a href="https://github.com/mpyw/whisper.go-wasm"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__whisper.go-wasm.svg"><img src="cards/light/mpyw__whisper.go-wasm.svg" width="400" alt="mpyw/whisper.go-wasm"></picture></a>
-<br>
 <a href="https://github.com/mpyw/gophper"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gophper.svg"><img src="cards/light/mpyw__gophper.svg" width="400" alt="mpyw/gophper"></picture></a>
-<a href="https://github.com/mpyw/gophper-wasm"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gophper-wasm.svg"><img src="cards/light/mpyw__gophper-wasm.svg" width="400" alt="mpyw/gophper-wasm"></picture></a>
 <br>
 <a href="https://github.com/mpyw/bisql"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__bisql.svg"><img src="cards/light/mpyw__bisql.svg" width="400" alt="mpyw/bisql"></picture></a>
 <a href="https://github.com/ymm-oss/terraform-provider-slackapp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/ymm-oss__terraform-provider-slackapp.svg"><img src="cards/light/ymm-oss__terraform-provider-slackapp.svg" width="400" alt="ymm-oss/terraform-provider-slackapp"></picture></a>
@@ -144,6 +141,9 @@
 <a href="https://github.com/mpyw/npm-oidc-check-action"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__npm-oidc-check-action.svg"><img src="cards/light/mpyw__npm-oidc-check-action.svg" width="400" alt="mpyw/npm-oidc-check-action"></picture></a>
 <br>
 <a href="https://github.com/mpyw/FILTER_VALIDATE_EMAIL.html"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__FILTER_VALIDATE_EMAIL.html.svg"><img src="cards/light/mpyw__FILTER_VALIDATE_EMAIL.html.svg" width="400" alt="mpyw/FILTER_VALIDATE_EMAIL.html"></picture></a>
+<a href="https://github.com/mpyw/whisper.go-wasm"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__whisper.go-wasm.svg"><img src="cards/light/mpyw__whisper.go-wasm.svg" width="400" alt="mpyw/whisper.go-wasm"></picture></a>
+<br>
+<a href="https://github.com/mpyw/gophper-wasm"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dark/mpyw__gophper-wasm.svg"><img src="cards/light/mpyw__gophper-wasm.svg" width="400" alt="mpyw/gophper-wasm"></picture></a>
 
 More introduced in [Repositories](https://github.com/mpyw?tab=repositories).
 
