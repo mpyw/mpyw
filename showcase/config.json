@@ -18,12 +18,13 @@
         {
           "title": "Library",
           "repos": [
-            "go-skill-embed",
+            { "name": "collect", "highlight": true },
             "feature",
             "whisper.go",
             "gophper",
-            "bisql",
-            "ymm-oss/terraform-provider-slackapp"
+            "go-skill-embed",
+            "ymm-oss/terraform-provider-slackapp",
+            "bisql"
           ]
         },
         {
