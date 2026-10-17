@@ -8,9 +8,10 @@
           "title": "Linter",
           "repos": [
             { "name": "declscope", "highlight": true },
-            "errlogreturn",
-            "gormreuse",
             "molint",
+            "errlogreturn",
+            "txbypass",
+            "gormreuse",
             "zerologlintctx",
             "goroutinectx"
           ]
