@@ -32,6 +32,7 @@
           "title": "Tool",
           "repos": [
             { "name": "suve", "highlight": true },
+            { "name": "tepra.tm2", "highlight": true },
             "ctxweaver",
             "sql-http-proxy",
             "moneyforward-paypaysec-bridge-action",
