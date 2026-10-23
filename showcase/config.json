@@ -19,11 +19,12 @@
         {
           "title": "Library",
           "repos": [
+            { "name": "dbstick", "highlight": true },
             { "name": "collect", "highlight": true },
             "feature",
+            "go-skill-embed",
             "whisper.go",
             "gophper",
-            "go-skill-embed",
             "ymm-oss/terraform-provider-slackapp",
             "bisql"
           ]
