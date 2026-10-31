@@ -34,7 +34,7 @@
           "repos": [
             { "name": "suve", "highlight": true },
             { "name": "tepra.tm2", "highlight": true },
-            { "name": "pkgsight", "highlight": true, "language": "Go" },
+            { "name": "pkgsight", "language": "Go" },
             "ctxweaver",
             "sql-http-proxy",
             "moneyforward-paypaysec-bridge-action",
