@@ -232,9 +232,11 @@ const main = async () => {
   const config = JSON.parse(await readFile(resolve(ROOT, 'showcase/config.json'), 'utf8'))
   const owner = config.owner
 
-  // A repository is either a bare name or `{ name, highlight }`. A bare name
-  // means the profile owner's repository; anything else is written in full,
-  // which is also how it is labelled on the card.
+  // A repository is either a bare name or `{ name, highlight, language }`. A
+  // bare name means the profile owner's repository; anything else is written
+  // in full, which is also how it is labelled on the card. `language`
+  // overrides the one GitHub reports, for a repository whose largest language
+  // is not the one it is listed under.
   const qualify = (name) => (name.includes('/') ? name : `${owner}/${name}`)
   const displayName = (fullName) =>
     fullName.startsWith(`${owner}/`) ? fullName.slice(owner.length + 1) : fullName
@@ -252,10 +254,11 @@ const main = async () => {
     if (group.repos) {
       resolved.repos = []
       for (const entry of group.repos) {
-        const { name, highlight = false } = typeof entry === 'string' ? { name: entry } : entry
+        const { name, highlight = false, language } = typeof entry === 'string' ? { name: entry } : entry
         const repo = await fetchRepo(qualify(name))
         repo.displayName = displayName(repo.full_name)
         repo.highlight = highlight
+        if (language) repo.language = language
         resolved.repos.push(repo)
         keep.add(`${slug(repo.full_name)}.svg`)
         for (const theme of Object.keys(THEMES)) {
